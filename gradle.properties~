@@ -18,8 +18,8 @@
 # org.gradle.parallel=true
 
 POM_NAME=Spika Chat Module
-POM_ARTIFACT_ID=library
-POM_PACKAGING=aar
+POM_ARTIFACT_ID=spika-chat-module
+POM_PACKAGING=jar
 VERSION_NAME=1.0.0
 VERSION_CODE=1
 GROUP=com.clover_studio.spikachatmodule
